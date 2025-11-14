@@ -1,0 +1,54 @@
+Job Id :1
+Error: Operation Code Error
+IC: 2
+IR: KD10
+TTC: 2
+LLC: 0
+
+
+Job Id :2
+Error: Operand Error
+IC: 1
+IR: GDF0
+TTC: 1
+LLC: 0
+
+
+Hello World                             
+
+Job Id :3
+No Error: Program executed successfully
+IC: 3
+IR: H
+TTC: 4
+LLC: 1
+
+
+Job Id :4
+Error: Line Limit Exceeded
+IC: 2
+IR: PD10
+TTC: 3
+LLC: 0
+
+
+Job Id :5
+Error: Out of Data
+IC: 2
+IR: GD20
+TTC: 3
+LLC: 0
+
+
+Hello World                             
+
+PD20H                                   
+
+Job Id :6
+Error: Invalid Page Fault
+IC: 3
+IR: PD20
+TTC: 3
+LLC: 2
+
+
